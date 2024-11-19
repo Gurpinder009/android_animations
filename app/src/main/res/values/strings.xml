@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="description">Hibiscus Flower Images</string>
+    <string name="btStart">LIFE OF A FLOWER</string>
+    <string name="btStop">ROTATE THE FLOWER</string>
+    <string name="stframeAnimation">START FRAME ANIMATION</string>
+    <string name="northlightAnimation">Northern LIGHT ANIMATION</string>
+    <string name="stTweenAnimatiom">START TWEEN ANIMATION</string>
+    <string name="stopFrameAnimation">Stop Frame animation</string>
+
+</resources>
